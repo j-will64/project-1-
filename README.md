@@ -32,7 +32,7 @@ Question 1
 
 Question 2
 
-		Random Variable X = SUNSPOTS = Percent change in sunspots compared to historical average 	Random Variable Y = TB3MS = 3-month treasury bill interest rate 
+	Random Variable X = SUNSPOTS = Percent change in sunspots compared to historical average 	Random Variable Y = TB3MS = 3-month treasury bill interest rate 
 	ASSUME: There is no linear relationship between random variables X and Y 
 		• Null Hypothesis, H₀ : ρ = 0 
 		• Alternate Hypothesis, H₁ : ρ ≠ 0 
