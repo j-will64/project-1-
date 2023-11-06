@@ -13,7 +13,7 @@ The Conclusion are as followed:
 
 Question 1
 
-Random Variable X = TB3MS = 3-month treasury bill interest rate 
+	Random Variable X = TB3MS = 3-month treasury bill interest rate 
 	Random Variable Y = 30YEAR = home mortgage interest rates on a 30-year fixed mortgage
 	ASSUME: There is no linear relationship between random variables X and Y
 		• Null Hypothesis, H₀ : ρ = 0
@@ -26,6 +26,8 @@ Conclusion:
 	• Conclusion: We reject null hypothesis.
 	• Data is consistent with linear relation between long term and short-term interest rates.
 	• This is exactly what we would expect because interest rates tend to move together.
+![image](https://github.com/j-will64/project-1-/assets/53585498/f19f5b03-a225-4c88-8a16-457b809537a9)
+
 
 
 Question 2
