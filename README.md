@@ -22,6 +22,11 @@ Question 1
 	T-test statistic = ρ [(n-2 )/(1 – ρ ^ 2)] ^ ½ = 0.93 [ 628 / (1 – 0.93 ^2)] ^ ½ = 23.3 
 	2-tail test with α = 0.05 ; n = 630 ; 2 degrees freedom → critical value t-dist = 1.964
 
+Conclusion:
+	• Conclusion: We reject null hypothesis.
+	• Data is consistent with linear relation between long term and short-term interest rates.
+	• This is exactly what we would expect because interest rates tend to move together.
+![image](https://github.com/j-will64/project-1-/assets/53585498/58e3bbaa-d1fa-4612-8324-c61b55850719)
 
 
 
