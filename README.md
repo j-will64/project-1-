@@ -26,7 +26,7 @@ Question 1
 	• Conclusion: We reject null hypothesis.
 	• Data is consistent with linear relation between long term and short-term interest rates.
 	• This is exactly what we would expect because interest rates tend to move together.
-![image](https://github.com/j-will64/project-1-/assets/53585498/29f1a289-f6f9-4cd4-8198-49c35dae5d9c)
+
 
 
 
