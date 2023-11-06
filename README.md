@@ -32,15 +32,16 @@ Question 1
 
 Question 2
 
-	Random Variable X = TB3MS = 3-month treasury bill interest rate 
-	Random Variable Y = SP500 = Percent change in SP Index over the month 
+		Random Variable X = SUNSPOTS = Percent change in sunspots compared to historical average 	Random Variable Y = TB3MS = 3-month treasury bill interest rate 
 	ASSUME: There is no linear relationship between random variables X and Y 
 		• Null Hypothesis, H₀ : ρ = 0 
 		• Alternate Hypothesis, H₁ : ρ ≠ 0 
-	Correlation Coefficient (X , Y) = ρ = -0.02 
-	T-test statistic = ρ [(n-2 )/(1 – ρ ^ 2)] ^ ½ = -0.02 [ 628 / (1 – (-0.02 ^2))] ^ ½ = -0.52 
+	Correlation Coefficient (X , Y) = ρ = 0.44 
+	T-test statistic = ρ [(n-2 )/(1 – ρ ^ 2)] ^ ½ = -0.02 [ 628 / (1 – 0.44 ^2)] ^ ½ = 12.4 
 	2-tail test with α = 0.05 ; n = 630 ; 2 degrees freedom → critical value t-dist = 1.964 
-	[ T-test statistic = | -0.52| ] < [Critical value = 1.964 ] → WE ACCEPT NULL HYPOTHESIS
+	[ T-test statistic = 12.4 ] > [Critical value = 1.964 ] → WE REJECT NULL HYPOTHESIS
+![image](https://github.com/j-will64/project-1-/assets/53585498/58c6420f-75fe-4803-9057-9f7f8aca64c2)
+
 
 	Conclusion 
 		• Conclusion: We can not reject null hypothesis. 
